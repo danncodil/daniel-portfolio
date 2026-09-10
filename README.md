@@ -26,3 +26,5 @@ JavaScript, TypeScript, React, Node.js, HTML, CSS e Tailwind CSS.
 npm install
 npm run dev
 ```
+
+> Nota: arquivos específicos da infraestrutura de hospedagem e autenticação foram removidos desta versão pública. O código do portfólio, seus componentes, animações e ativos visuais estão incluídos.
